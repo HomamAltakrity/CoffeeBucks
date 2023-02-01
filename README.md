@@ -41,7 +41,7 @@ To create all the nessesary tables and columns, run the following
 php artisan migrate
 ``
 
-## Running Then App
+## Running The App
 This app uses Xampp Local Sever with PhpMyAdmin so in oder to run it
 put the project in the htdocs file and run the server 
 
